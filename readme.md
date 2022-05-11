@@ -1,4 +1,4 @@
-# Processing and visualising point clouds with the PDAL/Entwine/Potree stack
+# Processing and visualising point clouds with the PDAL/Entwine/Potree/Greyhound/Jupyter stack
 
 **Dr. Adam Steer**  
 https://spatialised.net  
