@@ -30,7 +30,7 @@ This workshop requires a PDAL installation with python bindings. Using the minif
 
 Using Conda, create a new virtual environment like:
 
-`conda create -n f4g-pdal-workshop python pdal=2.1 python-pdal entwine jq numpy pandas matplotlib jupyter scipy seaborn -c conda-forge`
+`conda create -n f4g-pdal-workshop python pdal=2.4.1 python-pdal entwine jq numpy pandas matplotlib jupyter scipy seaborn -c conda-forge`
 
 (for now, please keep to PDAL version 2.1 - a kind tester has identified an issue with PDAL 2.2 and some of the exercises. Fixes are coming!)
 
